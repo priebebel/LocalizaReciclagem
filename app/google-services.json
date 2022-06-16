@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885940392802",
+    "project_id": "localizareciclagem",
+    "storage_bucket": "localizareciclagem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885940392802:android:145e6aaabdfcdf9a62d23b",
+        "android_client_info": {
+          "package_name": "com.example.localizareciclagem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885940392802-j2i8cn7g59k9235as9motjgfegsphvpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj6exS5VhoBp3VYVdq5KKg0s-t7j6n8F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885940392802-j2i8cn7g59k9235as9motjgfegsphvpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

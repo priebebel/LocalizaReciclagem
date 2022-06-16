@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocalizaReciclagem</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_login">FormLogin</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Casdastre</string>
+    <string name="title_cadastro">Cadastro</string>
+    <string name="Cadastrar"/>
+</resources>
